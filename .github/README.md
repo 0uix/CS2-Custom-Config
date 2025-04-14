@@ -10,7 +10,7 @@ _Check out his work and you can create your own config._ [ArminC AutoExec](https
 ## I started using RawAccel, these are my settings:
 ![RawAccel](https://raw.githubusercontent.com/0uix/CS2-Custom-Config/refs/heads/main/.github/Pictures/RawAccel.png)
 <h4 align="center">DPI: 800 - Sensitivity: 0.45</h4>
-<p align="right">[RawAccel Download](https://github.com/RawAccelOfficial/rawaccel/tree/master)</p>
+[RawAccel Download](https://github.com/RawAccelOfficial/rawaccel/tree/master)
 
 ## Launch Options:
 <table>
