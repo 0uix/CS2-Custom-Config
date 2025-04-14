@@ -8,8 +8,8 @@ _Check out his work and you can create your own config._ [ArminC AutoExec](https
 > ArminC if you ever see this I got so confused while editing and took me few days to complete
 
 ## I started using RawAccel, these are my settings:
-<h4 align="center">DPI: 800 - Sensitivity: 0.45</h4>
 ![RawAccel](https://raw.githubusercontent.com/0uix/CS2-Custom-Config/refs/heads/main/.github/Pictures/RawAccel.png)
+<h4 align="center">DPI: 800 - Sensitivity: 0.45</h4>
 
 ## Launch Options:
 <table>
