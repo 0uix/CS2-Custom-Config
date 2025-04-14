@@ -3,8 +3,7 @@
 > [!IMPORTANT]
 >This is not my entire work. Everything you see here is taken from [ArminC](https://github.com/armync).
 
-_Check out his work and you can create your own config._
-<align="center">[ArminC AutoExec](https://github.com/armync/ArminC-AutoExec/tree/master)
+_Check out his work and you can create your own config._ [ArminC AutoExec](https://github.com/armync/ArminC-AutoExec/tree/master)
 
 > ArminC if you ever see this I got so confused while editing and took me few days to complete >
 
